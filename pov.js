@@ -17,7 +17,7 @@ function updatePhoto(c,id){
     x = "<img src='" + path + "' usemap='#" + id + "' id='content'><map name='" + id + "'>";
 
     for (i in myObj.collection[c].photos[id].people) {
-        x += "<area target='_self' coords='" + myObj.collection[c].photos[id].people[i].coords + "' shape='rect' onclick='updatePhoto(c," + myObj.collection[c].photos[id].people[i].id + ")'>";
+        x += "<area target='_self' coords='" + myObj.collection[c].photos[id].people[i].coords + "' shape='rect' onclick='updatePhoto(c," + myObj.collection[c].photos[id].people[i].id + ")' style='cursor: pointer;' >";
     }
 
     x += "</map>"
