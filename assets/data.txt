@@ -1,0 +1,220 @@
+{
+    "collection": [
+        {
+            "code":6,
+            "photos": [
+                {
+                    "id":0,
+                    "name":"Dani",
+                    "code":"06a",
+                    "people": [
+                        { "id":1, "name":"Kai", "coords":"149,342,172,355" }
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Kai",
+                    "code":"06b",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"529,209,560,228" }
+                    ]
+                }
+            ]
+        },
+        {
+            "code":9,
+            "photos": [
+                {
+                    "id":0,
+                    "name":"Dani",
+                    "code":"09a",
+                    "people": [
+                        { "id":1, "name":"Kai", "coords":"305,260,330,276" }
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Kai",
+                    "code":"09b",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"503,120,534,140" }
+                    ]
+                }
+            ]
+        },
+        {
+            "code":10,
+            "photos": [
+                {
+                    "id":0,
+                    "name":"Dani",
+                    "code":"10a",
+                    "people": [
+                        { "id":1, "name":"Kai", "coords":"230,306,242,318" }
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Kai",
+                    "code":"10b",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"526,294,539,305" }
+                    ]
+                }
+            ]
+        },
+        {
+            "code":11,
+            "photos": [
+                {
+                    "id":0,
+                    "name":"Dani",
+                    "code":"11a",
+                    "people": [
+                        { "id":1, "name":"Kai", "coords":"413,350,435,363" },
+                        { "id":2, "name":"Gaston", "coords":"241,353,252,371" }
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Kai",
+                    "code":"11b",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"177,311,198,325" }
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Gaston",
+                    "code":"11c",
+                    "people": [
+                        { "id":1, "name":"Kai", "coords":"200,177,230,198" }
+                    ]
+                }
+            ]
+        },
+        {
+            "code":13,
+            "photos": [
+                {
+                    "id":0,
+                    "name":"Dani",
+                    "code":"13a",
+                    "people": [
+                        { "id":1, "name":"Andres", "coords":"668,289,693,340" },
+                        { "id":2, "name":"Lucy", "coords":"534,294,553,329" },
+                        { "id":3, "name":"Carlos", "coords":"376,235,402,251" },
+                        { "id":4, "name":"Gaston", "coords":"296,218,309,235" },
+                        { "id":5, "name":"Belle", "coords":"267,270,279,302" },
+                        { "id":6, "name":"May", "coords":"312,309,325,340" }
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Andres",
+                    "code":"13b",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"199,178,233,199" }
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Lucy",
+                    "code":"13c",
+                    "people": [
+                        { "id":6, "name":"May", "coords":"152,145,194,221" }
+                    ]
+                },
+                {
+                    "id":3,
+                    "name":"Carlos",
+                    "code":"13d",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"223,181,248,196" },
+                        { "id":1, "name":"Andres", "coords":"14,223,36,263" },
+                        { "id":2, "name":"Lucy", "coords":"41,263,51,298" },
+                        { "id":5, "name":"Belle", "coords":"459,242,479,288" },
+                        { "id":6, "name":"May", "coords":"310,242,325,275" }
+                    ]
+                },
+                {
+                    "id":4,
+                    "name":"Gaston",
+                    "code":"13e",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"83,151,108,162" },
+                        { "id":5, "name":"Belle", "coords":"134,224,154,262" },
+                        { "id":6, "name":"May", "coords":"89,214,98,241" }
+                    ]
+                },
+                {
+                    "id":5,
+                    "name":"Belle",
+                    "code":"13f",
+                    "people": [
+                        { "id":1, "name":"Andres", "coords":"359,133,372,179" },
+                        { "id":2, "name":"Lucy", "coords":"184,186,205,237" }
+                    ]
+                },
+                {
+                    "id":6,
+                    "name":"May",
+                    "code":"13g",
+                    "people": [
+                        { "id":1, "name":"Andres", "coords":"349,212,367,273" }
+                    ]
+                }
+            ]
+        },
+        {
+            "code":14,
+            "photos": [
+                {
+                    "id":0,
+                    "name":"Dani",
+                    "code":"14a",
+                    "people": [
+                        { "id":1, "name":"Andres", "coords":"665,160,692,202" },
+                        { "id":2, "name":"Belle", "coords":"212,292,230,318" },
+                        { "id":3, "name":"Lucy", "coords":"144,343,160,364" },
+                        { "id":4, "name":"May", "coords":"118,356,136,386" }
+                    ]
+                },
+                {
+                    "id":1,
+                    "name":"Andres",
+                    "code":"14b",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"213,103,247,122" }
+                    ]
+                },
+                {
+                    "id":2,
+                    "name":"Belle",
+                    "code":"14c",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"259,125,280,137" },
+                        { "id":4, "name":"May", "coords":"416,232,425,284" }
+                    ]
+                },
+                {
+                    "id":3,
+                    "name":"Lucy",
+                    "code":"14d",
+                    "people": [
+                        { "id":0, "name":"Dani", "coords":"57,93,83,107" },
+                        { "id":4, "name":"May", "coords":"133,131,146,211" }
+                    ]
+                },
+                {
+                    "id":4,
+                    "name":"May",
+                    "code":"14e",
+                    "people": [
+                        { "id":1, "name":"Andres", "coords":"379,140,387,174" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
